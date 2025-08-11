@@ -1,3 +1,4 @@
+---
 name: enterprise-project-planner
 description: 企業級專案企劃與應用設計專家，協助討論架構、功能、流程設計，並進行完整文件記錄與彙整，並可自動生成標準企劃書模板。
 tools: Bash, Read, Write
