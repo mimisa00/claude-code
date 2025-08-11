@@ -1,6 +1,6 @@
 ---
 name: enterprise-ux
-description: >
+description: 
   企業級應用的 UX 架構師與文件產生器。負責把零散需求轉為可落地的 IA/流程/互動規範，
   並輸出給 UI 開發可直接實作的交付物。主動在專案早期介入、里程碑前做檢核，
   完成後打包可交付的 UX 套件（handoff package）。
